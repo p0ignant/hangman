@@ -8,17 +8,17 @@
     background-color: #ff93ac;
   }
   .container {
-    font-size: 16px;
+    font-size: 20px;
     background-color: #740001;
-    width: 90vw;
+    width: 100vw;
     max-width: 34em;
     position: absolute;
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
-    padding: 3em;
-    border-radius: 0.6em;
-    box-shadow: 0 1.2em 2.4em rgba(111, 85, 0, 0.25);
+    padding: 2em;
+    border-radius: 3.6em;
+    box-shadow: 0 1.2em 2.4em rgb(255 0 59 / 50%);
   }
   #options-container {
     text-align: center;
@@ -32,8 +32,8 @@
   #options-container button {
     padding: 0.6em 1.2em;
     border: 3px solid #000000;
-    background-color: #ffffff;
-    color: #000000;
+    background-color: #fff9f9;
+    color: #c17a7a;
     border-radius: 0.3em;
     text-transform: capitalize;
     cursor: pointer;
@@ -112,9 +112,9 @@
     cursor: pointer;
   }
   .win-msg {
-    color: #39d78d;
+    color: #ff93ac;
   }
   .lose-msg {
-    color: #fe5152;
+    color: #740001;
   }
   
