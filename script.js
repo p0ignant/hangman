@@ -29,13 +29,8 @@ let options = {
     "Uganda", "Sudan", "Iraq", "Poland", "Canada", "Morocco", "Afghanistan", "SaudiArabia", "Peru", "Venezuela",
     "Malaysia", "Uzbekistan", "Angola", "Mozambique", "Ghana", "Yemen", "Nepal", "Venezuela", "Cameroon", "IvoryCoast",
     "NorthKorea", "Netherlands", "Belgium", "Greece", "Portugal", "CzechRepublic", "Sweden", "Hungary", "Switzerland", "Austria"
-  ],
-
-  valentines: [
-    "Love", "Heart", "Cupid", "Romance", "Flowers", "Chocolates", "Roses", "Affection", "Sweetheart", "Passion",
-    "Valentine", "Date", "Hug", "Kiss", "Bouquet", "Proposal", "Adore", "Cherish", "Darling", "Devotion",
-    "Embrace", "Gift", "Harmony", "Intimacy", "Joy", "Lover", "Partner", "Romantic", "Together", "Unity", "LoveIsInTheAir"
   ]
+
 };
 
 //count
